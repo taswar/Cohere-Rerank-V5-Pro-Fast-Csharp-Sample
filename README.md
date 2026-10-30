@@ -8,6 +8,7 @@
 ![Azure Identity](https://img.shields.io/badge/Azure%20Identity-DefaultAzureCredential-0089D6)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+[![build](https://github.com/taswar/Cohere-Rerank-V5-Pro-Fast-Csharp-Sample/actions/workflows/dotnet.yml/badge.svg)](https://github.com/taswar/Cohere-Rerank-V5-Pro-Fast-Csharp-Sample/actions/workflows/dotnet.yml)
 
 📖 Full walkthrough: [Cohere Rerank v5 Pro and Fast for C# Developers ](https://taswar.zeytinsoft.com/cohere-rerank-v5-pro-and-fast-for-c-developers/)
 ⭐ If this saved you time, star the repo so other .NET developers can find it.
