@@ -104,6 +104,8 @@ Fast (2089 ms, threshold 0.45)
 ```
 Program.cs                              Entry point, configuration, and rerank call
 Cohere-Rerank-v5-CSharp-Sample.csproj   .NET 10 project and package references
+.github/workflows/dotnet.yml            Build workflow that runs on every push and pull request
+CONTRIBUTING.md                         How to report bugs and contribute changes
 LICENSE                                 MIT license
 README.md                               This file
 ```
