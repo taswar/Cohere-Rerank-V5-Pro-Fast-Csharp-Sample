@@ -9,9 +9,9 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 [![build](https://github.com/taswar/Cohere-Rerank-V5-Pro-Fast-Csharp-Sample/actions/workflows/dotnet.yml/badge.svg)](https://github.com/taswar/Cohere-Rerank-V5-Pro-Fast-Csharp-Sample/actions/workflows/dotnet.yml)
 
-- 📖 Full walkthrough: [Cohere Rerank v5 Pro and Fast for C# Developers](https://taswar.zeytinsoft.com/cohere-rerank-v5-pro-and-fast-for-c-developers/)
+- 📖 Full walkthrough: [Cohere Rerank v5 Pro and Fast for C# Developers](https://taswar.zeytinsoft.com/cohere-rerank-v5-pro-and-fast-for-c-developers/?utm_source=github&utm_medium=readme&utm_campaign=Cohere-Rerank-V5-Pro-Fast-Csharp-Sample&utm_content=walkthrough)
 - ⭐ If this saved you time, star the repo so other .NET developers can find it.
-- For more C# Samples using other AI Models check out [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/)
+- For more C# Samples using other AI Models check out [AI models for C# developers](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/?utm_source=github&utm_medium=readme&utm_campaign=Cohere-Rerank-V5-Pro-Fast-Csharp-Sample&utm_content=ai-models-hub)
 - For my Free Ebook on Prompt Engineering check out [Prompt Engineering for .NET Developers](https://github.com/taswar/PromptEngineeringForDotNetDevelopers)
 
 A .NET 10 console app that calls Cohere Rerank v5 Pro and Fast on Microsoft Foundry. It uses `HttpClient` and Entra ID (Azure Identity) authentication, with no SDK. The app ranks a set of passages against one question, compares the two models, and uses a relevance threshold to decide which passages go to a chat model.
