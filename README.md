@@ -1,6 +1,6 @@
 # Cohere Rerank v5 (Pro & Fast) for C# and .NET 10 on Microsoft Foundry
 
-![Cohere V5 Rerank](CohereRerankv5ProandFastforCSharpDevelopers.webp)
+![Cohere Rerank v5 Pro and Fast for C# developers on Microsoft Foundry](CohereRerankv5ProandFastforCSharpDevelopers.webp)
 [![.NET 10](https://img.shields.io/badge/.NET-10-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![C# Developers](https://img.shields.io/badge/For-C%23%20Developers-239120)
