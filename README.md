@@ -10,8 +10,9 @@
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 [![build](https://github.com/taswar/Cohere-Rerank-V5-Pro-Fast-Csharp-Sample/actions/workflows/dotnet.yml/badge.svg)](https://github.com/taswar/Cohere-Rerank-V5-Pro-Fast-Csharp-Sample/actions/workflows/dotnet.yml)
 
-📖 Full walkthrough: [Cohere Rerank v5 Pro and Fast for C# Developers ](https://taswar.zeytinsoft.com/cohere-rerank-v5-pro-and-fast-for-c-developers/)
-⭐ If this saved you time, star the repo so other .NET developers can find it.
+- 📖 Full walkthrough: [Cohere Rerank v5 Pro and Fast for C# Developers ](https://taswar.zeytinsoft.com/cohere-rerank-v5-pro-and-fast-for-c-developers/)
+- ⭐ If this saved you time, star the repo so other .NET developers can find it.
+- For more C# Samples using other AI Models check out [Blog](https://taswar.zeytinsoft.com/foundry-ai-models-csharp/)
 
 A .NET 10 console app that calls Cohere Rerank v5 Pro and Fast on Microsoft Foundry. It uses `HttpClient` and Entra ID (Azure Identity) authentication, with no SDK. The app ranks a set of passages against one question, compares the two models, and uses a relevance threshold to decide which passages go to a chat model.
 
